@@ -1,12 +1,12 @@
 # Tipo de usuario
-- [x ] Alfa
+- [x] Alfa
 - [ ] Bravo 
-- [ ] Charlie
+- [x] Charlie
 - [ ] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
-- [x ] Feature
+- [x] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance

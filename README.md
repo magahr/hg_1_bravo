@@ -2,5 +2,5 @@
 hg_1_bravo - 
 bravo - magaly hernandez
 alfa  - manuel sotillo
-charli - jorege carrera
+charli - jorge carrera
 
